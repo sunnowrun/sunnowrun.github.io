@@ -3,9 +3,9 @@ secondary_name: ""
 navbar_name: "GTEMPO"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+- logo: /assets/images/badges/jlogo.jpg  # Logo is optional
+  name: An efficient numerical approach for quantum impurity problem
+# - name: Position 2 without logo
 
 
 email: 'zjsun@mail.ustc.edu.cn'
