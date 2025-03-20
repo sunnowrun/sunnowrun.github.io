@@ -1,6 +1,6 @@
-primary_name: "Your Name"
+primary_name: "Zhijie Sun"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Zhijie Sun"
 
 positions:
 - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
@@ -8,7 +8,7 @@ positions:
 - name: Position 2 without logo
 
 
-email: "your@email.com"
+email: "zjsun@mail.ustc.edu.cn"
 # cv_link: link-to-your-cv-file
 gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: your_github_id
