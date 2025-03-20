@@ -22,12 +22,13 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    Grassmann time-evolving matrix product operators (GTEMPO) provide a powerful approach for studying open quantum systems with fermionic environments, 
+    capable of handling real-time nonequilibrium dynamics as well as both real-time and imaginary-time equilibration processes.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    GTEMPO is built upon the Feynman–Vernon influence functional approach, a powerful analytical framework for studying the dynamics of open quantum systems. 
+    By exactly integrating out the bath, it leverages tensor network techniques to compute dynamic observables of the impurity. 
+    As a robust and promising numerical method, GTEMPO is well-suited for investigating strong coupling physics and non-Markovian dynamics
   </p>
 
 # portrait_url: /assets/images/photos/portrait.jpg
