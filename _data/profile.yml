@@ -4,7 +4,7 @@ navbar_name: "GTEMPO"
 
 positions:
 - logo: /assets/images/badges/jlogo.jpg  # Logo is optional
-  name: An efficient numerical approach for quantum impurity problem
+  name: An efficient and accurate numerical approach for quantum impurity problem
 # - name: Position 2 without logo
 
 
