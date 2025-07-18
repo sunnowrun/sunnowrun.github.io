@@ -1,0 +1,21 @@
+---
+title:          "Scalable tensor network algorithm for quantum impurity problems"
+date:           2025-07-17
+selected:       true
+pub:            "Arxiv"
+# pub_pre:        "Submitted to "
+# pub_post:       'Under review.'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_date:       "2025"
+
+abstract: >-
+  The Grassmann time-evolving matrix product operator method has shown great potential as a general-purpose quantum impurity solver, as its numerical errors can be well-controlled and it is flexible to be applied on both the imaginary- and real-time axis. However, a major limitation of it is that its computational cost grows exponentially with the number of impurity flavors. In this work, we propose a multi-flavor extension of it to overcome this limitation. The key insight is that to calculate multi-time correlation functions on one or a few impurity flavors, one could integrate out the degrees of freedom of the rest flavors before hand, which could greatly simplify the calculation. The idea is particularly effective for quantum impurity problems with diagonal hybridization function, i.e., each impurity flavor is coupled to an independent bath, a setting which is commonly used in the field. We demonstrate the accuracy and scalability of our method for the imaginary time evolution of impurity problems with up to three impurity orbitals, i.e., 6 flavors, and benchmark our results against continuous-time quantum Monte Carlo calculations. Our method paves the way of scaling up tensor network algorithms to solve large-scale quantum impurity problems.
+cover:       
+authors:
+  - Zhijie Sun
+  - Ruofan Chen
+  - Zhenyu Li
+  - Chu Guo 
+links:
+  paper: https://arxiv.org/abs/2507.12722
+---
